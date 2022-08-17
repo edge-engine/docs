@@ -1,0 +1,7 @@
+//[Edge Store Engine](../../../../index.md)/[ai.edgestore.engine.protos](../../index.md)/[OpKt](../index.md)/[Dsl](index.md)/[setClassOutputMapping](set-class-output-mapping.md)
+
+# setClassOutputMapping
+
+[androidJvm]\
+
+final [Unit](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)[setClassOutputMapping](set-class-output-mapping.md)(&lt;ERROR CLASS&gt;classOutputMapping)
